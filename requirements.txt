@@ -1,0 +1,10 @@
+pillow
+pandas
+matplotlib
+rembg
+opencv-python
+mediapipe==0.8.6
+scikit-learn
+ipykernel
+tensorflow==2.10
+hyperopt
